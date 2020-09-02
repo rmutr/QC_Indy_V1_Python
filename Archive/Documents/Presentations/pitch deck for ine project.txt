@@ -1,0 +1,40 @@
+
+01 Welcome 
+  QC Indy V1 
+  Easy and reliable to control the quality. 
+
+02 Problem 
+  
+03 Solution 
+
+04 Product 
+  Program menu 
+
+05 Competition 
+
+06 Competitive Advantages 
+  Unfair advantages. 
+
+07 Tools and Technologies 
+  07.1 U-Wave 
+  07.2 Python 
+  07.3 PostgreSQL 
+  07.4 Control chart 
+
+08 Scope 
+
+09 Task done 
+
+10 Task in plan 
+
+11 Thank you 
+  11.1 RMUTR 
+  11.2 AD 
+  11.3 Mitutoyo 
+  11.4 Sumipol 
+  11.5 Bossard 
+  11.6 Home Pro 
+  11.7 Shanin 
+  11.8 Sanya 
+
+ 
