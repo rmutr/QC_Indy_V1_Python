@@ -2,6 +2,7 @@
 01 Welcome 
   QC Indy V1 
   Easy and reliable to control the quality. 
+  Dimensional Quality Control System of Products with Control Chart. 
 
 02 Problem 
   
